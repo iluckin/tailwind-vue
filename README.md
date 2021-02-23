@@ -1,4 +1,4 @@
-# cs.iluckin.cn
+# tailwind-vue
 
 ## Project setup
 ```
